@@ -1,0 +1,38 @@
+Changelog
+--------------------------------------------------------
+Arrakis - Conky Theme (kamil-krecisz aka Recyzer - Edition)
+[ Edit of Draco Themes Pack ]
+
+Original Author: Closebox73
+Social:
+Twitter : https://twitter.com/closebox73
+Discord : https://discord.com/users/1115644269802311750
+GitHub  : https://github.com/closebox73
+Pling   : https://pling.com/u/closebox73x
+--------------------------------------------------------
+
+Original Releases by Closebox73:
+
+v1.0
+Date: 02 Sep 2022
+- Initial release
+
+v2.1
+Date: 02 Jan 2024
+- Add override_utf8_locale line
+- New weather.sh
+- New weather-icon-text.sh
+- Change main font from Dosis to Barlow
+- Add Fahrenheit version
+- Add Trash info
+- Minor improvements
+
+--------------------------------------------------------
+kamil-krecisz Edition:
+
+v1.0
+Date: 09 Sep 2025
+- Converted units from Fahrenheit to Celsius and wind speed to km/h
+- Updated layout, fonts, and colors
+- Adjusted system info section
+- Other minor visual and functional tweaks
