@@ -13,7 +13,8 @@ mkdir -p ~/.config/conky
 2. Clone the repository into your Conky configuration folder:
 
 ```bash
-git clone https://github.com/kamil-krecisz/Arrakis-Edit.git ~/.config/conky
+cd ~/.config/conky
+git clone https://github.com/kamil-krecisz/Arrakis-Edit.git
 ```
 3. Install all fonts located in ~/.config/conky/Arrakis-Edit/fonts and restart your system
 
